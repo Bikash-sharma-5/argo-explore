@@ -163,7 +163,8 @@ const normalizeFilter = (filter) => {
 
   return filter;
 };
-
+app.get("/", (req, res) => {
+  res.send("API is running...");});
 app.post("/api/chat/query", async (req, res) => {
   const { query } = req.body;
 
