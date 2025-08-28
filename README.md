@@ -88,6 +88,9 @@ ARGO-EXPLORER/
   - Natural language → database query → visualization  
 
 ---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 ## 🛠️ Installation  
 
